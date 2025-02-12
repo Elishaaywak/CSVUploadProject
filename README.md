@@ -32,7 +32,7 @@ Setup Instructions
 2️⃣ Clone the Repository
 
 cd C:/wamp64/www
-git clone https://github.com/yourusername/myapp.git
+git clone https://github.com/Elishaaywak/CSVUploadProject
 cd myapp
 
 3️⃣ Backend (Laravel) Setup
